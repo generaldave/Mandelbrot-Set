@@ -22,4 +22,4 @@ I followed along with the video translating everything to Python, using pygame.
 
 
 
-
+![screenshot-mandelbrot set](https://cloud.githubusercontent.com/assets/7481680/21580397/1bb33ed4-cfc0-11e6-9e3d-86d895c00bfe.png)
