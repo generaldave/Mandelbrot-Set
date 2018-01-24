@@ -1,13 +1,7 @@
 Mandelbrot Set
 
-    Written in Python 2.7.9
-    using pygame 1.9.2b1
-
-To install pygame: from the command prompt or Terminal, run the following:
-
-    python -m pip install --upgrade pip
-    python -m pip install pygame
-
+    Written in Python 3.5.2
+    using pygame 1.9.3
 
 
 
@@ -23,3 +17,4 @@ I followed along with the video translating everything to Python, using pygame.
 
 
 ![screenshot-mandelbrot set](https://cloud.githubusercontent.com/assets/7481680/21580397/1bb33ed4-cfc0-11e6-9e3d-86d895c00bfe.png)
+
